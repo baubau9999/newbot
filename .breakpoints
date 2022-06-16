@@ -1,0 +1,12 @@
+{
+  "files": {
+    "botcmd/commands/help.js": [
+      {
+        "id": "48a27665-f8a1-4e00-a646-a23286182aaf",
+        "line": 24,
+        "version": 1,
+        "index": 820
+      }
+    ]
+  }
+}

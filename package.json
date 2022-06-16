@@ -1,0 +1,48 @@
+{
+    "name": "ButtonTickets",
+    "version": "1.0.0",
+    "description": "Discord Tickets Bot With Buttons",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevelopersSupportAR/8Ticket.git"
+    },
+    "keywords": [
+        "button-tickets"
+    ],
+    "author": "apidev234",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/apidev234/ButtonTickets/issues"
+    },
+    "homepage": "https://github.com/apidev234/ButtonTickets",
+    "dependencies": {
+        "@discordjs/builders": "^0.15.0",
+        "@discordjs/voice": "^0.10.0",
+        "chalk": "^4.1.1",
+        "discord-buttons": "^4.0.0",
+        "discord-player": "^5.2.2",
+        "discord-together": "^1.3.3",
+        "discord-ytdl-core": "^5.0.4",
+        "discord.js": "^12.5.3",
+        "dotenv": "^10.0.0",
+        "erela.js": "^2.3.3",
+        "express": "^4.17.1",
+        "figlet": "^1.5.0",
+        "fs": "0.0.1-security",
+        "lyrics-finder": "^21.7.0",
+        "moment": "^2.29.3",
+        "node-fetch": "^3.2.6",
+        "pretty-ms": "^8.0.0",
+        "quick.db": "^7.1.3",
+        "reconlx": "^2.5.6",
+        "soundcloud-downloader": "^1.0.0",
+        "sourcebin_js": "0.0.3-ignore",
+        "yt-search": "^2.10.3",
+        "ytdl-core": "^4.11.0"
+    }
+}
